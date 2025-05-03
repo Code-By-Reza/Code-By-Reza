@@ -2,16 +2,16 @@
 
 ## About Me
 I am an **App & Software Development Student** passionate about coding and creating solutions.  
-Currently learning and working with multiple programming languages to improve my skills and contribute to meaningful projects.
+Currently learning and working with Java and JavaScript to build real-world projects and strengthen my development skills.
+
+## Current Focus
+- Currently focused on improving my Java skills through exercises and small projects.
+- Exploring JavaScript to understand dynamic front-end interactions.
 
 ## Languages and Tools
 Here are the languages and tools I work with:  
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
-![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)  
-![XML](https://img.shields.io/badge/-XML-lightgrey?style=flat-square&logo=xml)  
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 
 ## Featured Repository
 [**Code-With-JS**](https://github.com/Code-By-Reza/Code-With-JS)  
