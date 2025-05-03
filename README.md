@@ -1,17 +1,18 @@
 # Welcome to Reza's GitHub Profile! 👋
 
 ## About Me
-I am an **App & Software Development Student** passionate about coding and creating solutions.  
-Currently learning and working with Java and JavaScript to build real-world projects and strengthen my development skills.
+I am currently training as an **IT Specialist for Application Development** (*Fachinformatiker für Anwendungsentwicklung*) with a strong focus on Java and JavaScript.  
+Through hands-on projects and continuous learning, I aim to strengthen my development skills and prepare for a professional career in software engineering.
 
 ## Current Focus
-- Currently focused on improving my Java skills through exercises and small projects.
-- Exploring JavaScript to understand dynamic front-end interactions.
+- Improving my **Java** skills through practical exercises and mini-projects.  
+- Exploring **JavaScript** through real-world exercises and small projects.
 
 ## Languages and Tools
-Here are the languages and tools I work with:  
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+Here are the technologies I work with:
+
+- **Java**  
+- **JavaScript**
 
 ## Featured Repository
 [**Code-With-JS**](https://github.com/Code-By-Reza/Code-With-JS)  
