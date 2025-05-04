@@ -14,9 +14,13 @@ Here are the technologies I work with:
 - **Java**  
 - **JavaScript**
 
-## Featured Repository
-[**Code-With-JS**](https://github.com/Code-By-Reza/Code-With-JS)  
-This repository highlights various JavaScript projects, examples, and event-based programming tasks. Check it out to explore some of my work!
+## Featured Repositories
+**[Java User Management App](https://github.com/Code-By-Reza/java-user-management-console-app)**  
+A simple Java console project for managing users.
+
+**[Code With JS](https://github.com/Code-By-Reza/Code-With-JS)**  
+JavaScript mini-projects and examples.
+
 
 ## GitHub Stats
 Here is an overview of my GitHub contributions:  
