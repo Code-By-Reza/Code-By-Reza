@@ -10,13 +10,11 @@ Through hands-on projects and continuous learning, I aim to strengthen my develo
 
 ## Languages and Tools
 Here are the technologies I work with:
-
-- **Java**  
+ 
 - **JavaScript**
 
 ## Featured Repositories
-**[Java User Management App](https://github.com/Code-By-Reza/java-user-management-console-app)**  
-A simple Java console project for managing users.
+
 
 **[Code With JS](https://github.com/Code-By-Reza/Code-With-JS)**  
 JavaScript mini-projects and examples.
