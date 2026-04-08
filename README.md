@@ -1,11 +1,11 @@
 # Welcome to Reza's GitHub Profile! 👋
 
 ## About Me
-I am currently training as an **IT Specialist for Application Development** (*Fachinformatiker für Anwendungsentwicklung*) with a strong focus on Java and JavaScript.  
+I am currently training as an **IT Specialist for Application Development** (*Fachinformatiker für Anwendungsentwicklung*) with a strong focus on JavaScript.  
 Through hands-on projects and continuous learning, I aim to strengthen my development skills and prepare for a professional career in software engineering.
 
 ## Current Focus
-- Improving my **Java** skills through practical exercises and mini-projects.  
+
 - Exploring **JavaScript** through real-world exercises and small projects.
 
 ## Languages and Tools
