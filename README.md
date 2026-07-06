@@ -1,23 +1,19 @@
 # Welcome to Reza's GitHub Profile! 👋
 
 ## About Me
-I am currently training as an **IT Specialist for Application Development** (*Fachinformatiker für Anwendungsentwicklung*) with a strong focus on JavaScript.  
-Through hands-on projects and continuous learning, I aim to strengthen my development skills and prepare for a professional career in software engineering.
+I am an **IT Specialist for Application Development** (*Fachinformatiker für Anwendungsentwicklung*) with a strong focus on building modern web applications. Through practical projects and continuous learning, I build clean, structured, and efficient software solutions.
 
-## Current Focus
-
-- Exploring **JavaScript** through real-world exercises and small projects.
+## Technical Focus
+- **Frontend Development:** Creating dynamic and responsive user interfaces using **React**.
+- **Backend Development:** Building performant server-side logic and REST APIs with **Node.js** and **Express**.
 
 ## Languages and Tools
-Here are the technologies I work with:
- 
-- **JavaScript**
+- **Languages:** JavaScript (ES6+)
+- **Libraries & Frameworks:** React, Express.js
+- **Environment & Tools:** Node.js, Git, GitHub, REST APIs
 
-## Featured Repositories
-
-
-**[Code With JS](https://github.com/Code-By-Reza/Code-With-JS)**  
-JavaScript mini-projects and examples.
+## Projects Overview
+Here you will find a collection of my web development projects, ranging from clean JavaScript logic and interactive UI components to full server-side implementations and REST APIs. Feel free to explore the repositories below!
 
 
 ## GitHub Stats
